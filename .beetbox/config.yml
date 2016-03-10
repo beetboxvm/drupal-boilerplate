@@ -1,0 +1,12 @@
+---
+# Beetbox settings.
+beet_domain: "drupal-boilerplate.local"
+beet_root: "{{ beet_base }}/docroot"
+beet_site_name: "Lullabot Drupal Boilerplate"
+
+# Drupal settings.
+drupal_create_makefile: yes
+drupal_build_makefile: yes
+drupal_install_site: yes
+drupal_account_name: admin
+drupal_account_pass: admin
